@@ -1,0 +1,39 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #1f3c88;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin: 100px auto;
+  text-shadow: 5px 0 #070d59;
+  font-size: 8rem;
+  color: #ee6f57;
+}
+
+p {
+  font-size: 2rem;
+  text-shadow: 2px 0 #070d59;
+  color: #f6f5f5;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #f6f5f5;
+  text-align: center;
+}
